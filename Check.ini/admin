@@ -1,0 +1,6 @@
+[pz]
+ver=1.6
+list=https://cdn.jsdelivr.net/gh/pangbobi/cdn@master/list/listadmin
+init=https://gitee.com/muyang68/cbd/raw/master/init
+latest=https://gitee.com/muyang68/cbd/raw/master/latest
+login=https://gitee.com/muyang68/cbd/raw/master/bdlogin
